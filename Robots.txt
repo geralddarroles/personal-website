@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search
+Disallow: /portal/*
+Disallow: /home.html
+Disallow: /index_2020.html
+Disallow: /*.api.json$
+Disallow: /feeds/services/social/counter*
