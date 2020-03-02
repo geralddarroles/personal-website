@@ -79,22 +79,46 @@ position: relative;
     background-repeat: no-repeat;
     width: 105%;
     height:768px;
-    position: relative;
-
     background-size: cover;
 }
 
+.div-heading{
+    padding-top: 20%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+  
+}
 #h1-heading{
-    padding-top: 25%;
-    margin-bottom: 50%;
-    margin-left: 10%;
-    margin-right: 45%;
-    position: absolute;
+    
+
     color:#ffffff;
     font-family: sans-serif;
     font-weight: 700;
-    font-size: 5rem;
+    font-size: 3rem;
 }
+
+#contact-me{
+    font-size: 2rem;
+    color: azure;
+}
+
+#href{
+    color: white;
+    font-size: 2rem;
+    padding-left: 5px;
+
+}
+
+
+.personal-image{
+height: 300px;
+width: auto;
+border-radius: 100%;
+margin-top: 30%;
+margin-left: 20%;
+
+}
+
 
 
 #background-image{
@@ -156,6 +180,7 @@ position: relative;
 
 .card-body{
     background-color: white;
+    font-size: 1.5rem;
 }
 
 
@@ -171,6 +196,7 @@ li{
 
 .button-info{
     color: #464646;
+    font-size: 2rem;
 }
 
 .feature-box{
@@ -181,6 +207,7 @@ li{
 .featurei{
     font-size: 4rem;
     padding-top: 40px;
+    color: rgb(255, 255, 255);
 }
 
 #education-section{
@@ -189,10 +216,14 @@ li{
     margin: 0;
 }
 
+.ed-heading{
+    color: white;
+}
+
 .education{
     font-size: 2rem;
     padding: 20px;
-    color: #464646;
+    color: #fff6f6;
 }
 
 #footer{
@@ -204,4 +235,5 @@ li{
 
 .footer-info{
     padding: 0px;
+    font-size: 2rem;
 }
