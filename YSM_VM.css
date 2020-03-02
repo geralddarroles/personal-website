@@ -187,7 +187,11 @@ margin-left: 20%;
 
 .card-info{
     color: darkgray;
-    font-size:2rem;
+    font-size:1rem;
+}
+
+.text-description{
+    font-size:1.4rem;
 }
 
 li{
